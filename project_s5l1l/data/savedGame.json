@@ -1,0 +1,75 @@
+{
+    "totalFood": 0,
+    "buildings": [
+        {
+            "maxWorkers": 5,
+            "name": "Farm 1",
+            "type": "Farm",
+            "workers": [
+                {
+                    "name": "Founder",
+                    "isWorking": true
+                },
+                {
+                    "name": "10",
+                    "isWorking": false
+                }
+            ]
+        },
+        {
+            "maxWorkers": 5,
+            "name": "Mill 1",
+            "type": "Lumber Mill",
+            "workers": [{
+                "name": "Founder",
+                "isWorking": true
+            }]
+        },
+        {
+            "maxWorkers": 5,
+            "name": "Mine 1",
+            "type": "Mine",
+            "workers": [{
+                "name": "Founder",
+                "isWorking": true
+            }]
+        },
+        {
+            "maxWorkers": 5,
+            "name": "a",
+            "type": "Lumber Mill",
+            "workers": [{
+                "name": "1",
+                "isWorking": false
+            }]
+        }
+    ],
+    "totalWood": 30,
+    "totalStone": 22,
+    "citizens": [
+        {
+            "name": "Founder",
+            "isWorking": true
+        },
+        {
+            "name": "Founder",
+            "isWorking": true
+        },
+        {
+            "name": "Founder",
+            "isWorking": true
+        },
+        {
+            "name": "Founder",
+            "isWorking": false
+        },
+        {
+            "name": "10",
+            "isWorking": false
+        },
+        {
+            "name": "1",
+            "isWorking": false
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "totalFood": 20,
+    "buildings": [
+        {
+            "maxWorkers": 5,
+            "name": "Farm 1",
+            "type": "FARM",
+            "workers": [
+                {
+                    "name": "Tommy",
+                    "isWorking": true
+                }
+            ]
+        }],
+    "totalWood": 20,
+    "totalStone": 20,
+    "citizens": [
+        {
+            "name": "Tommy",
+            "isWorking": true
+        },
+        {
+            "name": "Nane",
+            "isWorking": false
+        }
+    ]
+}
